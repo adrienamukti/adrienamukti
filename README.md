@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adrienamukti
+- 👋 Hi, I’m adriena mukti
 - 👀 I’m interested in 
 - 🌱 I’m currently learning laravel and python
 - 💞️ I’m looking to collaborate on your project
