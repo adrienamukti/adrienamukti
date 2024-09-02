@@ -1,6 +1,5 @@
 - 👋 Hi, I’m adriena mukti
-- 👀 I’m interested in 
-- 🌱 I’m currently learning laravel and python
+- 👀 I’m interested in Data
 - 💞️ I’m looking to collaborate on your project
 - 😄 Pronouns: adri
 - ⚡ Fun fact: i'm bored
