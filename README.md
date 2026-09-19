@@ -61,12 +61,20 @@ Currently, I'm focused on growing my career in **Software Engineering** and **Qu
 
 ---
 
-## 📈 GitHub Stats
+## 📌 GitHub Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrienamukti&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrienamukti&layout=compact&hide_border=true" />
-</p>
+I use GitHub to document and manage projects related to software development, backend development, software testing, data analytics, and machine learning.
+
+You can explore my repositories to see projects involving:
+
+- 🌐 Web Application Development
+- ⚙️ Backend & REST API Development
+- 🧪 Software Testing & Debugging
+- 🤖 Machine Learning
+- 📊 Data Analytics
+- 🔗 API Integration
+
+➡️ [Explore My Repositories](https://github.com/adrienamukti?tab=repositories)
 
 ---
 
